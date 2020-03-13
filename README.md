@@ -1,2 +1,2 @@
 # Shell
-Practiccing shell scripting
+Practice for shell scripting
